@@ -1,0 +1,18 @@
+{
+  "name": "slush-angularjs",
+  "description": "Slush generator for AngularJS",
+  "version": "0.0.2",
+  "author": "Nick Eddy <eddy.nicholas@gmail.com>",
+  "preferGlobal": true,
+  "keywords": [
+    "slushgenerator"
+  ],
+  "dependencies": {
+    "gulp": "^3.8.10",
+    "gulp-conflict": "^0.3.0",
+    "gulp-install": "^0.2.0",
+    "gulp-rename": "^1.2.0",
+    "gulp-template": "^1.1.1",
+    "inquirer": "^0.8.0"
+  }
+}
